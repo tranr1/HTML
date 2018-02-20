@@ -1,0 +1,21 @@
+header{
+     background-color: navy;
+     color: white;
+     text-transform: uppercase;
+}
+
+nav {
+    font-size: 28;
+    line-height: 30px;
+    background-color: #eeeeee;
+    width: 150px;
+    height: 700px;
+    float:left;
+}
+
+table, th, td{
+    border: 1px solid black;
+    height: 30%;
+    width: 75%;
+    
+}
